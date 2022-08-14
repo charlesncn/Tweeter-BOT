@@ -1,4 +1,4 @@
-# Tweeter-BOT 
+# Tweeter BOT 
 > Python
 - web scraping.
 - sentiment analysis.
